@@ -1,0 +1,1 @@
+drop pdf in the folder "DROP PDF" to auto convert
